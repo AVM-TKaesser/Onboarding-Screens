@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "459A317A-B2D6-4643-91EC-14E9EBF1430B",
+  "do_objectID": "19E098FE-82B0-42F9-ACC0-C2BA2AEBE461",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 252,
-    "width": 252,
-    "x": 0,
-    "y": 1
+    "height": 15,
+    "width": 32,
+    "x": 40,
+    "y": 25
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,78 +30,90 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "C9721D78-53D4-4377-A20E-FF977B8DA4E9"
+      "class": "shapePath",
+      "id": "2F7053F8-0E8D-4B13-BB20-AA489D9D0D56"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "831B876D-E80D-47C8-A9AA-86B3278B3408"
     },
     {
       "class": "shapePath",
-      "id": "66237970-DBAA-4E0D-ABF9-43B5337C0273"
+      "id": "DCEA67EE-0ECB-45CE-AF67-D72A19B1A08D"
     },
     {
       "class": "shapePath",
-      "id": "7D54490B-0FFC-4954-AEBC-FA4F2CF7C574"
+      "id": "EB34B526-759A-4F02-BD20-80C5F84E6A78"
     },
     {
       "class": "shapePath",
-      "id": "185BCED3-6103-46D7-BCAD-C0AA06C83B78"
+      "id": "B19C54A8-494D-4DE1-8EB8-F81E913031EF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B95BB652-A061-4A65-B0E0-4C37BD89EFF3"
     },
     {
       "class": "shapePath",
-      "id": "942E599D-1D37-452D-A131-3CA0AE4D2C2F"
+      "id": "93401270-B095-481E-A18C-B18F63F75E01"
     },
     {
       "class": "shapePath",
-      "id": "7AD71486-E1F6-4F9D-82DF-5E6FAA144F79"
+      "id": "4C26CACA-C21E-4848-A2A2-A9112E6F7A29"
     },
     {
       "class": "shapePath",
-      "id": "3A17F659-8679-496B-9289-C3EC6B25EF19"
+      "id": "A7994C2D-20F9-4C89-A5DA-714817CB3324"
     },
     {
-      "class": "group",
-      "id": "62DD0957-E7EB-49A9-ACD8-B5894CC49BE9"
-    },
-    {
-      "class": "group",
-      "id": "57882019-6352-426B-A5C7-C5F639976C75"
-    },
-    {
-      "class": "group",
-      "id": "643845BF-2531-4912-B187-0A4CA0DDF89B"
-    },
-    {
-      "class": "group",
-      "id": "E14ACC4B-34B3-48CA-8704-53F50AC96F6A"
-    },
-    {
-      "class": "group",
-      "id": "B918EF2E-4AD3-47EF-B19B-DD7BEAEA89B9"
+      "class": "shapeGroup",
+      "id": "4895006B-B8CD-44FE-8137-364FB77730D2"
     },
     {
       "class": "shapePath",
-      "id": "735D7362-C930-4A42-AF7C-BD80056256B6"
+      "id": "2BB61BF3-603B-4BF5-8FF5-B971E1640C17"
     },
     {
-      "class": "group",
-      "id": "FB2CCA03-BC8F-4E07-B6BA-2F230318FDDD"
+      "class": "shapePath",
+      "id": "77E3DC3B-A2D3-43DA-87A8-A7343E47391F"
     },
     {
-      "class": "group",
-      "id": "B6CDEA7E-C794-403E-A94D-18BD48BF92A2"
+      "class": "shapePath",
+      "id": "6E5AB69C-208C-407A-B39E-21DB45B6C601"
     },
     {
-      "class": "group",
-      "id": "99833C00-6AD3-44E4-8C9B-B47654F87606"
+      "class": "shapeGroup",
+      "id": "346C5769-0B82-4328-A032-6F67E18FB746"
     },
     {
-      "class": "group",
-      "id": "D0677C35-02D0-4EDF-B35B-120E89DCCC12"
+      "class": "shapePath",
+      "id": "9270AACB-E8B8-49A8-8284-3A51A0F23E33"
+    },
+    {
+      "class": "shapePath",
+      "id": "FE0652E7-4ADD-43B2-8BF6-CD596405C129"
+    },
+    {
+      "class": "shapePath",
+      "id": "2FE7D069-1304-4C7D-9CDE-04480F76FE7C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "018A0127-D683-4C72-A83D-84A08C772E73"
+    },
+    {
+      "class": "shapePath",
+      "id": "08D31747-F19C-416C-93B1-A19D456A3FEC"
+    },
+    {
+      "class": "shapePath",
+      "id": "0DA7E8B7-D5D4-4C28-A332-EC8E6D960FCE"
     }
   ],
-  "name": "illu_onboarding_heimnetz",
+  "name": "LEDS",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -141,7 +153,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "19C855DA-5AB1-46C2-9329-F6DC5E65D8A4",
+    "do_objectID": "1B0E8A93-BAD7-4B8E-B5B0-1D502EA9515B",
     "endMarkerType": 0,
     "fills": [
     ],
